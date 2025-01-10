@@ -21,7 +21,7 @@
 ## 참고 자료
 - [YOLOv5 원본 레포지토리](https://github.com/ultralytics/yolov5)
 - 관련 논문 및 튜토리얼 링크
-- [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
-- [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
-- [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
-- [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)
+  - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+  - [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
+  - [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
+  - [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)
